@@ -1,0 +1,6 @@
+{
+  "name": "Поле Чудес: Silbato - Español A2",
+  "description": "Интерактивная игра 'Поле чудес' для изучения испанского языка на армянском с отгадыванием слова SILBATO, 20 вопросами A2 и переводом по клику.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
